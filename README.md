@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning about cybersecurity
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"  />
-</div>
+
 
 ###
 
@@ -13,6 +11,9 @@
   <a href="https://www.behance.net/francogodoy1" style="cursor: pointer"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  /></a>
  <a href="mailto:godoyfranco.92@gmail.com" style="cursor: pointer"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
  <a href="https://w.app/FrancoGodoy" style="cursor: pointer" > <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  /></a>
+</div>
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"  />
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
