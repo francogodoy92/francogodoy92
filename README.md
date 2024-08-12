@@ -1,4 +1,4 @@
-## I'm Franco, a MERN full stack dev in Argentina :)
+## I'm Franco, a Full Stack MERN dev in Argentina :)
 
 - 🌱 I’m currently learning about cybersecurity
 
