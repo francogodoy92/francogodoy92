@@ -1,5 +1,7 @@
 ## I'm Franco, a MERN full stack dev in Argentina :)
 
+- 🌱 I’m currently learning about cybersecurity
+
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"  />
 </div>
@@ -72,8 +74,6 @@
 </div>
 
 ###
-
-<p align="left">Hello World!!</p>
 
 ###
 
